@@ -13,9 +13,9 @@ The data collected from step 1 is in a nested json format. Thus the data needs t
 
 ## 3. Data analysis and visualisation
 For this step, the data will be used for answering questions such as:
-  a. How are the colleges are spread throughout the country
-  b. What are the average cost of study by state and course
-  c. What is the Highest and lowest no. of courses offered by colleges of each type college
+ *  How are the colleges are spread throughout the country
+ *  What are the average cost of study by state and course
+ *  What is the Highest and lowest no. of courses offered by colleges of each type college
  
 # Conclusion
 
